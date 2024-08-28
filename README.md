@@ -13,5 +13,5 @@ Je suis Data Analyst avec une bonne maitrise en Python, R, SQL, et visualisation
 - [Analyse des Données de Santé Publique](lien_vers_projet) : Étude des facteurs influençant les maladies chroniques.
 
 ## Me Contacter
-- [LinkedIn](lien_vers_linkedin)
+- [LinkedIn](https://www.linkedin.com/in/armel-ahokpe-b7112227/)
 - [Portfolio en ligne](https://github.com/AHOKPE/AHOKPE.git)
