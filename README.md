@@ -4,8 +4,8 @@ Je suis Data Analyst avec une bonne maitrise en Python, R, SQL, et visualisation
 
 ## Compétences
 - **Langages de Programmation :** Python, R, SQL
-- **Outils de Visualisation :** R Shiny, Power BI
-- **Analyse Statistique :** Régression, analyse multivariée, tests d'hypothèses
+- **Outils de Visualisation :** R Shiny, Power BI, Matplot
+- **Analyse Statistique :** Régressions, analyse multivariée, tests d'hypothèses
 
 ## Projets Notables
 - [Analyse des Ventes pour E-commerce](lien_vers_projet) : Analyse des tendances et prévisions des ventes.
