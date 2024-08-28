@@ -14,4 +14,4 @@ Je suis Data Analyst avec une bonne maitrise en Python, R, SQL, et visualisation
 
 ## Me Contacter
 - [LinkedIn](lien_vers_linkedin)
-- [Portfolio en ligne](lien_vers_portfolio)
+- [Portfolio en ligne](https://github.com/AHOKPE/AHOKPE.git)
