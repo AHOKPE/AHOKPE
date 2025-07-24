@@ -1,4 +1,4 @@
-# Salut, je suis AHOKPE Mahounan Armel Judicael 👋
+# Salut 👋
 
 Je suis Data Analyst avec une bonne maitrise en Python, R, SQL, et visualisation de données. Passionné par la transformation des données en insights précieux pour aider les entreprises à prendre des décisions éclairées. Actuellement en recherche de nouvelles opportunités.
 
